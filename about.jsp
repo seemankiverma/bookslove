@@ -4,10 +4,14 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>ABOUT US</title>
 </head>
 <body>
 <%@include file ="header.jsp"%>
+<h2>BOOKSLOVE</h2>
+<h4>
+bookslove is a site made for the readers. so that they can buy and sale their favourate books.
+</h4>
 <%@include file ="footer.jsp"%>
 </body>
 </html>
